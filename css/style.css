@@ -1,0 +1,42 @@
+@charset "utf-8";
+.header {
+	height: 100px;
+	text-align: left;
+	border-style: solid;
+	border-width: 1px;
+	margin-right: 1px;
+	margin-left: 0px;
+	width: auto;
+	float: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.right_block {
+	width: 20%;
+	height: 500px;
+	border-style: solid;
+	border-width: 1px;
+	opacity: 1;
+	float: left;
+	margin-right: 15px;
+}
+.header p {
+	text-align: center;
+	word-wrap: break-word;
+}
+.content  {
+	height: 23em;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 21%;
+	margin-right: 5px;
+
+
+
+
+}
+.right_block ul li {
+	color: #BD7173;
+	line-height: 2;
+}
