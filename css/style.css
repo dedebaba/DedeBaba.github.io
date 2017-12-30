@@ -40,3 +40,10 @@
 	color: #BD7173;
 	line-height: 2;
 }
+ul li a {
+	text-decoration: none;
+}
+
+ul li a:hover {
+	color:#800000;
+}
