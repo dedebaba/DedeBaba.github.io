@@ -12,6 +12,7 @@
 	float: none;
 	clear: left;
 	padding-bottom: 20px;
+	word-wrap: break-word;
 }
 
 .right_block {
@@ -31,7 +32,7 @@
 	line-height: 0;
 }
 .content  {
-	height: 150em;
+	height: 300em;
 	border: 1px solid #039;
 	margin-left: 19%;
 	margin-right: 5px;
@@ -51,11 +52,12 @@ a {
 	clear: none;
 	float: none;
 	background-color: #EDDFDF;
-	height: 400px;
+	height: 100%;
 
 
 
 }
+
 .content .contentblock p {
 	font-size: 25px;
 }
@@ -134,7 +136,7 @@ tr td a:hover {
 }
 .contentblock {
 	padding-top: 20px;
-	height: 470px;
+	height: 700px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 
