@@ -2,7 +2,6 @@
 @charset "utf-8";
 .header {
 	height: 100px;
-	text-align: left;
 	border: 1px solid #039;
 	margin-right: 1px;
 	margin-left: 0px;
@@ -307,3 +306,9 @@ tr td a:hover {
 	margin-left: 10px;
 }
 >>>>>>> 9b882f2408d062312b057db3325ac68ecea62787
+.header #banner {
+}
+.header #banner {
+	text-align: center;
+
+}
